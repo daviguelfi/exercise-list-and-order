@@ -1,4 +1,4 @@
-# teste
+# a simple example
 
 
 First, install dependencies 
